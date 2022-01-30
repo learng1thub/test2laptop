@@ -1,7 +1,4 @@
 Esto es un test para subir al repositorio remoto
-<<<<<<< HEAD
 agrego una linea
 esta es una tercera linea para probar
-=======
-le agrego algo desde la web
->>>>>>> 14a2cedfa714aa3b1a672dd21a303929b30ba283
+agrego esta linea para la rama segunda
